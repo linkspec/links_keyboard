@@ -1,0 +1,2 @@
+config SHIELD_LINKS_KEYBOARD
+    def_bool $(shields_list_contains,links_keyboard)

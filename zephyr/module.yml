@@ -1,0 +1,4 @@
+name: zmk-keyboard-links-keyboard
+build:
+  settings:
+    board_root: .
